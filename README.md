@@ -45,8 +45,8 @@ jupytext OpenCV_Hello_World.ipynb --to py
 
 ## Trying out the Notebook
 
-Users are welcome to clone the repository and try out the notebook locally. Additionally, ILCI users have the option of trying it out on the cloud using JupyterLab: [![Open In Jupyter](https://img.shields.io/badge/jupyter-open_in_ILCI_Jupyter_Hub-blue?logo=jupyter)](https://jupyter-sandbox.ilci.scienceversa.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fagostof%2FOpenCV_Hello_World&urlpath=lab%2Ftree%2FOpenCV_Hello_World%2FOpenCV_Hello_World.ipynb&branch=main)
+Users are welcome to clone the repository and try out the notebook locally. Additionally, ILCI users have the option of trying it out on the cloud using: 
+- JupyterLab (at ILCI's JupyterHub)[![Open In Jupyter](https://img.shields.io/badge/jupyter-open_in_ILCI_Jupyter_Hub-blue?logo=jupyter)](https://jupyter-sandbox.ilci.scienceversa.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fagostof%2FOpenCV_Hello_World&urlpath=lab%2Ftree%2FOpenCV_Hello_World%2FOpenCV_Hello_World.ipynb&branch=main)
+- Voilà (runs notebook with code hidden) [![Open In Voilà](https://img.shields.io/badge/voila-open_in_voilà-blue)](https://jupyter-sandbox.ilci.scienceversa.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fagostof%2FOpenCV_Hello_World&urlpath=voila/render/OpenCV_Hello_World%2FOpenCV_Hello_World.ipynb&branch=main)
 
-**Note**: The above link is intended **only for authorized ILCI users**. Unauthorized access is strictly prohibited.
-
-
+**Note**: The links above are intended **only for authorized ILCI users**. Unauthorized access is strictly prohibited.
