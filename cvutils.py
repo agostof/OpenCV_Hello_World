@@ -33,6 +33,8 @@ def cv2_imshow(title, image, axes=None, **kwargs):
 
 # This function was extracted
 # from https://towardsdatascience.com/easy-method-of-edge-detection-in-opencv-python-db26972deb2d
+# original version of the function:
+# https://pyimagesearch.com/2015/04/06/zero-parameter-automatic-canny-edge-detection-with-python-and-opencv
 def auto_canny_edge_detection(image, sigma=0.33):
     md = np.median(image)
     lower_value = int(max(0, (1.0-sigma) * md))
