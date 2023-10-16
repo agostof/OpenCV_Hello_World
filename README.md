@@ -6,6 +6,7 @@ The [OpenCV_Hello_World](OpenCV_Hello_World.ipynb) is a simple "Hello World" not
 ## How to Try This Notebook
 
 If you want to see this in action, you can access everything from this repository in the following ways:
+- **Binder**: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/agostof/OpenCV_Hello_World/HEAD?labpath=OpenCV_Hello_World.ipynb)
 - **Local Usage**: Users are welcome to clone the repository and try out the notebook locally. 
 - **ILCI JupyterHub Usage**:
   - Open this notebook at [ILCI's JupyterLab](https://jupyter-sandbox.ilci.scienceversa.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fagostof%2FOpenCV_Hello_World&urlpath=lab%2Ftree%2FOpenCV_Hello_World%2FOpenCV_Hello_World.ipynb&branch=main) (you will be asked to log in if not logged in already).
