@@ -2,3 +2,5 @@ results/**/*.png
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 __pycache__/**
+data/metadata.json
+data/uploaded_input.jpg
